@@ -5,7 +5,6 @@ Native Node.js binding for systemd journal access.
 ## Installation
 ```bash
 npm install
-node-gyp configure build
 ```
 
 ## Usage
